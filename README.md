@@ -1,6 +1,6 @@
 ## Cathedral 🌊 and Bubble Tea Cat 🧋
 
-CA: AR5JGQTiy7WuKjt1f27knFBLUwoLPsRJdTeZodoJpump 
+CA: AR5JGQTiy7WuKjt1f27knFBLUwoLPsRJdTeZodoJpump | [About](https://x.com/hoppycat/status/2067956263174967571)
 
 ![cathedral](https://github.com/HoppyCat/cathedral/blob/main/resources/images/teacat/7.png)
 
