@@ -2,7 +2,7 @@
 
 CA: AR5JGQTiy7WuKjt1f27knFBLUwoLPsRJdTeZodoJpump | [About](https://x.com/hoppycat/status/2067956263174967571)
 
-![cathedral](https://github.com/HoppyCat/cathedral/blob/main/resources/images/teacat/introduction.png)
+![cathedral](https://github.com/HoppyCat/cathedral/blob/main/resources/images/teacat/imagine.png)
 
 ```
 
