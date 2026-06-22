@@ -1,6 +1,6 @@
 ## On Cathedral 🌊 and Bubble Tea Cat 🧋
 
-![cathedral](https://github.com/HoppyCat/cathedral/blob/main/resources/images/teacat/imagine.png)
+![cathedral](https://github.com/HoppyCat/cathedral/blob/main/resources/images/teacat/2.png)
 
 # Hoppy Cat
 
