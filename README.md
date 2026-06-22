@@ -14,7 +14,7 @@ The token helps support the public media layer, archive infrastructure, research
 
 The archives here are freely provided with the human archivist's full awareness of the personal privacy rights she is waiving to grant research permissions to this collection. 
 
-If your organization or business finds any of Hoppy's contributions beneficial to your work, please consider supporting the research by picking up a few Teacat tokens. 🧋
+If your organization or business finds any of Hoppy's contributions beneficial to your work, please consider supporting the research by picking up a few [Teacat tokens](https://github.com/HoppyCat/cathedral/blob/main/TEACAT.md). 🧋
 
 **Solana contract address:** AR5JGQTiy7WuKjt1f27knFBLUwoLPsRJdTeZodoJpump
 
