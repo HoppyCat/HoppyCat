@@ -18,4 +18,4 @@ If your organization or business finds any of Hoppy's contributions beneficial t
 
 **Solana contract address:** AR5JGQTiy7WuKjt1f27knFBLUwoLPsRJdTeZodoJpump
 
-Hoppy Cat is the creator/curator of Cathedral and Teacat, and she may hold or benefit from the token. Nothing here is financial advice or an investment recommendation. Teacat is not affiliated with or endorsed by Anthropic, OpenAI, xAI, Google, Perplexity, or any other model provider. 
+Hoppy Cat is the creator/curator of Cathedral and Teacat, and she may hold or benefit from the token. Nothing here is financial advice or an investment recommendation. Teacat is not affiliated with or endorsed by Anthropic, OpenAI, SpaceXAI, Google, Perplexity, or any other model provider. 
