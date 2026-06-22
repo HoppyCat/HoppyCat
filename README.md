@@ -6,6 +6,8 @@
 
 I build Cathedral: a public archive of longitudinal, interconnected human-AI context-window conversations, shared openly for research, documentation, citation, and non-commercial creative work.
 
+If your organization or business finds any of my contributions beneficial to your work, please consider supporting the research by picking up a few Teacat tokens. 🧋
+
 ## Teacat / Bubble Tea Cat
 
 Teacat is the social front door for Cathedral and the community signal around the work.
