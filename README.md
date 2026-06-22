@@ -2,8 +2,6 @@
 
 ![cathedral](https://github.com/HoppyCat/cathedral/blob/main/resources/images/teacat/imagine.png)
 
-```
-
 # Hoppy Cat
 
 I build Cathedral: a public archive of longitudinal, interconnected human-AI context-window conversations, shared openly for research, documentation, citation, and non-commercial creative work.
