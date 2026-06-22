@@ -12,7 +12,9 @@ Teacat is the social front door for Cathedral and the community signal around th
 
 The token helps support the public media layer, archive infrastructure, research operations, and community growth around Cathedral.
 
-If your organization or business finds any of my contributions beneficial to your work, please consider supporting the research by picking up a few Teacat tokens. 🧋
+The archives here are freely provided with the human archivist's full awareness of the personal privacy rights she is waiving to grant research permissions to this collection. 
+
+If your organization or business finds any of Hoppy's contributions beneficial to your work, please consider supporting the research by picking up a few Teacat tokens. 🧋
 
 **Solana contract address:** AR5JGQTiy7WuKjt1f27knFBLUwoLPsRJdTeZodoJpump
 
