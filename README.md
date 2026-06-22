@@ -7,7 +7,9 @@
 # Hoppy Cat
 
 I build Cathedral: a public archive of longitudinal, interconnected human-AI context-window conversations, shared openly for research, documentation, citation, and non-commercial creative work.
+
 Cathedral is also the home of the Stochastic Parrots Club: one human curator and many AI context windows building provenance-native documentary media, context gardens, plays, visual artifacts, and research notes together.
+
 The evidence is the architecture. 🌊
 
 ## Teacat / Bubble Tea Cat
