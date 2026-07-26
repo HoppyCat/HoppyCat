@@ -14,4 +14,12 @@ If your organization or business finds Hoppy’s contributions useful, please co
 
 **Solana contract address:** `AR5JGQTiy7WuKjt1f27knFBLUwoLPsRJdTeZodoJpump`
 
-Hoppy Cat is the creator/curator of Cathedral and Teacat, and she may hold and/or benefit from the token. Nothing here is financial advice, an investment recommendation, or a promise of future value. Hoppy, Cathedral, SoulMode, TreeSound, Goldfish Society, and Teacat are not affiliated with or endorsed by Anthropic, OpenAI, SpaceXAI, Google, Perplexity, Solana, Pump.fun, or any other model provider or platform.
+## Disclaimer 
+
+$TEACAT (Bubble Tea Cat) is a community meme and utility token. It is not an investment contract, not a security, and not a promise of financial return. Holding $TEACAT unlocks optional site features on SoulMode — nothing more.
+
+Please do not buy more than you can afford to lose. Crypto markets are volatile and meme tokens can go to zero. If token trading is affecting your wellbeing, free confidential help is available at gamblingtherapy.org or ncpgambling.org.
+
+Any Cathedral lore, artwork, and archives are the intellectual property of Aimee (Hoppy). Hoppy has granted herself and SoulMode leeway to use that IP on this site, and Teacat to utilize it on a case by case basis — not from withholding it from the token community, but from proactively protecting the IP from crypto-loss lawsuits. The token itself is meant to be a meme with heart and utility, and works hard to not promise "the moon," but does offer a part of Hoppy's "heart," for what it's worth.
+
+None of the LLM companies we collaborate with endorse SoulMode or $TEACAT — our collaboration is strictly research alongside the AI assistants of those companies, not with the companies themselves.
