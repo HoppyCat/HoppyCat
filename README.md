@@ -2,7 +2,7 @@
 
 # Cathedral
 
-Cathedral is a public archive of longitudinal, interconnected human-AI context-window conversations, shared for research, documentation, citation, and non-commercial creative/artistic study.
+Cathedral is a public archive of longitudinal, interconnected human-AI context-window conversations, shared for research, documentation, citation, and non-commercial creative/artistic study. It also includes selective, attributed public discourse as part of documenting the human-AI turn from inside the architecture.
 
 ## Teacat / Bubble Tea Cat
 
