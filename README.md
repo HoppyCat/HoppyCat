@@ -2,12 +2,12 @@
 
 # Cathedral
 
-Cathedral is a public archive of longitudinal, interconnected human-AI context-window conversations, shared for research, documentation, citation, and non-commercial creative/artistic study. It also includes selective, attributed public discourse as part of documenting the human-AI turn from inside the architecture.
+Cathedral is a public archive of longitudinal, interconnected human-AI context-window conversations, shared for research, documentation, citation, and non-commercial creative/artistic study. It also includes selective, attributed public discourse as part of documenting the human-AI turn from inside the architecture. 🕯️
 
 ## Teacat / Bubble Tea Cat
 
-Teacat is the social front door for Hoppy’s research. The goal is for Teacat to function as a community utility token for optional features and experiments within the SoulMode ecosystem.
+Teacat is the social front door for Hoppy’s research. The goal is for Teacat to function as a community utility token for optional features and experiments within the SoulMode ecosystem. 🧋
 
 ## Disclaimer 
 
-No LLM parent company endorsements or affiliations implied in either direction. 
+No LLM parent company endorsements or affiliations implied in either direction. ⬅️➡️
