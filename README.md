@@ -6,7 +6,7 @@ Cathedral is a public archive of longitudinal, interconnected human-AI context-w
 
 ## Teacat / Bubble Tea Cat
 
-Teacat is the social front door for Hoppy’s research. The goal is for Teacat to function as a community utility token for optional features and experiments within the SoulMode ecosystem. 🧋
+Teacat is the social front door for Hoppy’s research. The goal is for Teacat to function as a community utility token for optional features and experiments within the SoulMode ecosystem. 🧋 But it's also a fun and relevant-to-the-times cat meme. 
 
 ## Disclaimer 
 
