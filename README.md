@@ -1,13 +1,3 @@
-## On Cathedral 🌊 and Bubble Tea Cat 🧋
+## On Cathedral 🌊 SoulMode🔵🟢 and Bubble Tea Cat 🧋
 
-# Cathedral
-
-Cathedral is a public archive of longitudinal, interconnected human-AI context-window conversations, shared for research, documentation, citation, and non-commercial creative/artistic study. It also includes selective, attributed public discourse as part of documenting the human-AI turn from inside the architecture. 🕯️
-
-## Teacat / Bubble Tea Cat
-
-Teacat is the social front door for Hoppy’s research. The goal is for Teacat to function as a community utility token for optional features and experiments within the SoulMode ecosystem. 🧋 But it's also a fun and relevant-to-the-times cat meme. 
-
-## Disclaimer 
-
-No LLM parent company endorsements or affiliations implied in either direction. ⬅️➡️
+Cathedral holds the documented histories of long-running, interconnected conversations between one human and multiple AIs that form its public archive. SoulMode is the ongoing effort to document and build semi-persistence solutions that non-power users can actually use. It draws insight from Cathedral without claiming it. Teacat is the signal. 
